@@ -1,4 +1,0 @@
-/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/build/CMakeFiles/bresenham.dir
-/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/build/CMakeFiles/dda.dir
-/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/build/CMakeFiles/edit_cache.dir
-/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/build/CMakeFiles/rebuild_cache.dir
